@@ -8,6 +8,10 @@
 
 Kevori is a modern brand focused on creating meaningful products that blend technology with intentional design.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b876e234-6a4b-422f-a161-de2ef2ce7899" alt="Kevori Website Screenshot" width="800" style="height: auto; max-width: 100%; border-radius: 8px;">
+</p>
+
 ### Philosophy
 **Key + Vision + Origin**
 
