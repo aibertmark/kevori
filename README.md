@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/248e1aef-3a6b-4e10-bb23-14c0512a036e" />
+<img width="1409" height="632" alt="截屏2026-11-08 14 00 23" src="https://github.com/user-attachments/assets/b876e234-6a4b-422f-a161-de2ef2ce7899" />
 # Kevori
 
 **Create What Comes Next**
