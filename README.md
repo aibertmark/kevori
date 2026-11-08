@@ -1,7 +1,7 @@
-<p align="center"> 
-  <img width: 160px; max-width: 100%; height: auto alt="LOGO" src="https://github.com/user-attachments/assets/ae456c49-0704-40f9-9703-31989654c09e" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae456c49-0704-40f9-9703-31989654c09e" alt="Kevori Logo" width="160" style="height: auto;">
 </p>
-<img width="1409" max-width: 100%; height: auto  alt="截屏2026-11-08 14 00 23" src="https://github.com/user-attachments/assets/b876e234-6a4b-422f-a161-de2ef2ce7899" />
+
 # Kevori
 
 **Create What Comes Next**
@@ -19,7 +19,7 @@ We believe great products come from clarity of purpose, forward-looking vision, 
 - Custom product design services
 
 ### Website
-Visit the full brand experience: [https://kevorillc.com]
+Visit the full brand experience: [https://kevorillc.com](https://kevorillc.com)
 
 ---
 
